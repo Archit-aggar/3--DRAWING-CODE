@@ -1,0 +1,26 @@
+.first{
+    width:50%;
+    height:400px;
+    margin:auto;
+}
+table, th, td {
+    border: 0px solid white;
+    
+  }
+ th{
+    background-color: black;
+}
+.header{
+    color: white;
+}
+
+
+.bottom{
+    background-color:#FF75FF;
+}
+.top{
+    background-color:#BDBDFF;
+}
+.middle{
+    background-color:#BDFFFF;
+}

@@ -1,0 +1,54 @@
+
+#rectangle{
+    width:200px;
+    height:50px;
+    background: linear-gradient(to top right, #ff0000 0%, #ffa033 100%);
+    border-radius: 100px 0px ;
+    margin-top:10%;
+    margin-left:10%;
+    transform: rotate(180deg); 
+    position:absolute;
+    opacity:0.8;
+}
+ #rectangle1{
+    width:200px;
+    height:50px;
+    background: linear-gradient(to top right, #ff9900 0%, #ffff00 100%);
+    border-radius: 100px 0px ;
+     margin-top:10%;
+    margin-left:10%;  
+    transform: rotate(135deg); 
+    position:relative;
+    top:130px;
+    opacity:0.9;
+
+   
+ }
+ #rectangle2{
+    width:200px;
+    height:50px;
+    background: linear-gradient(to top right, #993333 0%, #6600ff 100%);
+    border-radius: 100px 0px ;
+    margin-top:10%;
+    margin-left:10%; 
+    transform: rotate(225deg); 
+    position:relative;
+    top:-55px;
+    opacity:0.9;
+ }
+ #rectangle3{
+    width:200px;
+    height:50px;
+    background: linear-gradient(to top right, #eb0e96 0%, #190ae7 100%);
+    border-radius: 100px 0px ;
+    margin-top:10%;
+    margin-left:10%; 
+    transform: rotate(90deg); 
+    position:relative;
+    top:-240px;
+    opacity:0.8;
+ }
+
+
+ 
+
